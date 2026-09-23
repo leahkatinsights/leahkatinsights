@@ -20,11 +20,11 @@ Full writeups with charts and the reasoning behind each build: [leahkatinsights.
 
 ## How I work
 
-- I like taking a messy dataset and turning it into a plan someone can act on.
-- I build the pipeline first. Bronze, silver, gold on Databricks when the project needs it, plain Parquet when it doesn't.
-- Most of the heavy lifting happens in SQL. I get to one clean row per customer, hotel, or SKU before any model sees it.
-- If I can't rerun it and get the same answer, it isn't finished. Seeds, tests, and a source line on every chart.
-- I end with the decision, not the notebook. A memo a GM would actually read, or a list an operator can work through tomorrow morning.
+- I like taking a messy dataset and turning it into actionable strategy.
+- I build the pipeline first. Bronze, silver, gold on Databricks when the project needs it. Data brought in, cleaned up, and made presentable.
+- A lot of the data worked in SQL. There is one clean row per customer, hotel, or SKU before any model sees it.
+- If I can't rerun it and get the same answer, it isn't finished. There are seeds, tests, and a source line for every chart.
+- I end with the decision, not the notebook. A memo a GM would actually read, or a list an operator can work through with ease.
 
 ## Certifications
 
@@ -32,5 +32,6 @@ Certification in Hotel Industry Analytics (CHIA), CoStar Group · [AWS Machine L
 
 ## Now
 
-- MBA, Fall 2026: Financial Analytics (R) and Economics
+- MBA, Spring 2027: Data Analytics Concentration, Hospitality & Casino Management Specialization
 - Next up on the portfolio: Vail Resorts Monte Carlo, Yankees cost-per-win, Augusta analytics
+- Currently learning and prepping for AWS Solutions Architect
