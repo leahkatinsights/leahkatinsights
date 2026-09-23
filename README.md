@@ -2,7 +2,7 @@
 
 I bring the data in, build the analytics, and turn it into strategy.
 
-Ecommerce Director by day, MBA candidate (Data Analytics concentration, Hotel & Casino Management specialization), and building a portfolio of sports and hospitality analytics on real cloud infrastructure: Databricks, Delta Lake, AWS, and SQL first.
+I run ecommerce for a wellness brand, I'm finishing an MBA in data analytics with a hotel and casino management specialization, and I'm a sports fanatic at heart. If it's not revenue analytics, it's sports stats. The projects here are how I'm moving toward sports and hospitality analytics: real cloud infrastructure, real data, and an answer at the end.
 
 **[leahkatinsights.com](https://leahkatinsights.com)** · [LinkedIn](https://www.linkedin.com/in/leah-hall/) · [leah@leahkatinsights.com](mailto:leah@leahkatinsights.com)
 
@@ -18,12 +18,13 @@ Ecommerce Director by day, MBA candidate (Data Analytics concentration, Hotel & 
 
 Full writeups with charts and the reasoning behind each build: [leahkatinsights.com/projects](https://leahkatinsights.com/projects.html)
 
-## How I build
+## How I work
 
-- Medallion pipelines (bronze / silver / gold) on Databricks, or plain Parquet when the job is small
-- SQL first: window functions, star schemas, one row per entity before any model touches it
-- Reproducible by default: seeded simulations, tests, and every exhibit labeled with its source
-- The deliverable is a decision, not a notebook: each project ends in a memo or an action queue
+- I like taking a messy dataset and turning it into a plan someone can act on.
+- I build the pipeline first. Bronze, silver, gold on Databricks when the project needs it, plain Parquet when it doesn't.
+- Most of the heavy lifting happens in SQL. I get to one clean row per customer, hotel, or SKU before any model sees it.
+- If I can't rerun it and get the same answer, it isn't finished. Seeds, tests, and a source line on every chart.
+- I end with the decision, not the notebook. A memo a GM would actually read, or a list an operator can work through tomorrow morning.
 
 ## Certifications
 
