@@ -13,8 +13,10 @@ Ecommerce Director by day, MBA candidate (Data Analytics concentration, Hotel & 
 | 05 | [Hotel RevPAR Performance Readout](https://github.com/leahkatinsights/hotel-revpar-readout) | STR-style monthly readout for an urban hotel: occupancy, ADR, RevPAR, and MPI / ARI / RGI against a comp set, from 119,000 real bookings, with a one-page GM memo | Databricks, Delta Lake, PySpark, pytest |
 | 03 | [Lululemon DCF Valuation Pipeline](https://github.com/leahkatinsights/lululemon-dcf-pipeline) | SEC EDGAR XBRL to bronze / silver / gold, SQL window functions, a 5-year DCF with bear / base / bull scenarios, and a reverse DCF that backs out what the market is pricing in | Python, DuckDB, Parquet, scipy |
 | 04 | [Multi-Channel Reorder Forecasting System](https://github.com/leahkatinsights/reorder-forecasting-system) | Recency-weighted velocity model and a five-state reorder engine that turns Shopify and Square sales history into a daily purchase-order queue | Streamlit, Postgres, Shopify and Square APIs |
+| 02 | [Customer Lifetime Value Model](https://github.com/leahkatinsights/customer-lifetime-value-model) | 65k synthetic golf-retail transactions to RFM features in SQL, then BG/NBD and Gamma-Gamma models for 12-month revenue per customer, on a Delta pipeline | Databricks, Delta Lake, SQL, lifetimes |
+| 01 | [Stock Market Analytics Lakehouse](https://github.com/leahkatinsights/stock-analytics-lakehouse) | Yahoo Finance to S3, an S3-triggered Lambda that summarizes new files through AWS Bedrock, Delta Lake and SQL trend analytics on Databricks | AWS S3, Lambda, Bedrock, Databricks |
 
-Full writeups, plus the customer lifetime value model and the stock analytics lakehouse: [leahkatinsights.com/projects](https://leahkatinsights.com/projects.html)
+Full writeups with charts and the reasoning behind each build: [leahkatinsights.com/projects](https://leahkatinsights.com/projects.html)
 
 ## How I build
 
